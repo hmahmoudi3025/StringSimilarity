@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSimilarity", "StringSimilarity\StringSimilarity.csproj", "{5C628852-4F80-42E9-AAED-2C36022FF579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{00CE30F4-40E5-4F22-BC31-A076A3C6C40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C628852-4F80-42E9-AAED-2C36022FF579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C628852-4F80-42E9-AAED-2C36022FF579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C628852-4F80-42E9-AAED-2C36022FF579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C628852-4F80-42E9-AAED-2C36022FF579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE30F4-40E5-4F22-BC31-A076A3C6C40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE30F4-40E5-4F22-BC31-A076A3C6C40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE30F4-40E5-4F22-BC31-A076A3C6C40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE30F4-40E5-4F22-BC31-A076A3C6C40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
